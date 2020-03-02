@@ -1,2 +1,2 @@
-# DC202062
-UMD Data Challenge 2020 - Team 62
+# UMD Data Challenge 2020 - Data Exploration for a Sustainable Planet
+## Team: Katherine Sublett and Maaz Amin
